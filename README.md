@@ -17,10 +17,10 @@
 - Conceitos de controle de versão e gestão de código fonte; Criação de repositórios locais e remotos; Envio (Commit) e resgate de versões, Checkin e Checkout.
 
 # DATAS DAS AVALIAÇÕES:
-- **P1**:
-- **P2**:
-- **TRABALHOS**:
-- **P3**:
+- **P1: 24/09/2024**
+- **P2: 12/11/2024**
+- **TRABALHOS: 12/11/2024**
+- **P3: 03/12/2024**
 
 # AULA 01 - 06/08/2023
 
