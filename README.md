@@ -23,5 +23,6 @@
 - **P3: 03/12/2024**
 
 # AULA 01 - 06/08/2023
+- Palestra de CIEE e Recepção dos novos alunos pela Direção da FATEC no Auditório.
 
 # AULA 02 - 13/08/2023
