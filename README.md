@@ -26,3 +26,6 @@
 - Palestra de CIEE e Recepção dos novos alunos pela Direção da FATEC no Auditório.
 
 # AULA 02 - 13/08/2023
+- Aula 01: Introdução Princípios de Sistemas Computacionais
+
+# AULA 03 - 20/08/2023
