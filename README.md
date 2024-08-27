@@ -29,3 +29,7 @@
 - Aula 01: Introdução Princípios de Sistemas Computacionais
 
 # AULA 03 - 20/08/2023
+- ....
+
+# AULA 04 - 27/08/2023
+- Aula 02: Algoritmos, fluxograma, Introdução ao Python
